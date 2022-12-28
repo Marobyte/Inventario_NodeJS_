@@ -8,3 +8,4 @@ router.get('/Registro', (req, res) => res.render('Registro', { title: 'Registro'
 router.get('/Login', (req, res) => res.render('Login', { title: 'Login'}))
 
 export default router
+
